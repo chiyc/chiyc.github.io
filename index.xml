@@ -6,9 +6,21 @@
     <description>Chi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 21 May 2020 08:34:11 -0400</lastBuildDate>
     
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello</title>
+      <link>/about/</link>
+      <pubDate>Thu, 21 May 2020 08:34:11 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;My name&amp;rsquo;s Chi. I love to learn and share what I know. That usually involves topics on software development but might include other interests here and there.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be back to fill this page with more information as inspiration strikes.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
