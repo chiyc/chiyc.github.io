@@ -1,26 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chi</title>
-    <link>https://www.heychi.com/</link>
-    <description>Chi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 08:34:11 -0400</lastBuildDate>
-    
-    <atom:link href="https://www.heychi.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hello</title>
-      <link>https://www.heychi.com/about/</link>
-      <pubDate>Thu, 21 May 2020 08:34:11 -0400</pubDate>
-      
-      <guid>https://www.heychi.com/about/</guid>
-      <description>&lt;p&gt;My name&amp;rsquo;s Chi. I love to learn and share what I know. That usually involves topics on software development but might include other interests here and there.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll be back to fill this page with more information as inspiration strikes.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chi</title><link>https://www.heychi.com/</link><description>Chi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 08:34:11 -0400</lastBuildDate><atom:link href="https://www.heychi.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Write a Blog</title><link>https://www.heychi.com/posts/why-write-a-blog/</link><pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate><guid>https://www.heychi.com/posts/why-write-a-blog/</guid><description>&lt;p>Who am I? Professionally, I&amp;rsquo;m a software developer. Personally, I care deeply about learning, helping others, and solving problems. Sometimes, I come across interesting problems with obscure solutions, and other times, they&amp;rsquo;re just surprising. Either way, I love the process of learning. Hopefully, you might learn something interesting along the way, too.&lt;/p>
+&lt;p>My passion for learning currently extends to other interests as well: jazz piano, finance, writing, languages (or learning about learning languages), and more recently, how to stop losing in chess against my brother.&lt;/p>
+&lt;p>I&amp;rsquo;d like to write about all of that here and more when I can. So why write a blog?&lt;/p>
+&lt;p>As much as I hope you might learn something new or take something positive away from your time here, I&amp;rsquo;m also in it for myself.&lt;/p>
+&lt;p>I remember first getting online as a young kid in the late 90s, which was probably 1998 from the New Jersey townhome I remember living in at the time. It also lines up with when under-13-year-olds were still allowed to use online services. I was an avid reader and learner as a child, too, and the internet opened up a completely new world to me. In those days, I would browse Yahoo&amp;rsquo;s web directory, try my hand at building web pages on Tripod and Angelfire, roleplay as Pokemon in chat rooms, and read everything that piqued my interest, waiting patiently for web pages to load on dial-up.&lt;/p>
+&lt;p>A lot has happened since then as I&amp;rsquo;m now entering the fourth decade of my life. There&amp;rsquo;s so much more content and many more voices online. Billions now. I think part of that has often kept me from participating online. What else could I add? I&amp;rsquo;m a perennial &amp;ldquo;lurker&amp;rdquo;, only occasionally contributing a comment here and there. And when I do, it takes me extraordinarily long to get my thoughts out. I edit and re-edit. And re-edit. Only to find out the end piece of writing now has a new grammatical error because I changed another part of the sentence.&lt;/p>
+&lt;p>So in the end, for me, I think this blog is meant to be part learning, part therapeutic, part finding my voice, and part just doing something to get my mark out in the world.&lt;/p></description></item><item><title>Hello</title><link>https://www.heychi.com/about/</link><pubDate>Thu, 21 May 2020 08:34:11 -0400</pubDate><guid>https://www.heychi.com/about/</guid><description>&lt;p>My name&amp;rsquo;s Chi. I love to learn and share what I know. That usually involves topics on software development but might include other interests here and there.&lt;/p>
+&lt;p>I&amp;rsquo;ll be back to fill this page with more information as inspiration strikes.&lt;/p></description></item></channel></rss>
