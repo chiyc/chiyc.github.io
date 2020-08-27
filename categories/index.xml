@@ -3,11 +3,11 @@
   <channel>
     <title>Categories on heychi</title>
     <link>https://www.heychi.com/categories/</link>
-    <description>Recent content in Categories on heychi</description>
+    <description>heychi (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.heychi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.heychi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
