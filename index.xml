@@ -6,10 +6,38 @@
     <description>heychi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://www.heychi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Great Engineering Leadership</title>
+      <link>https://www.heychi.com/posts/great-engineering-leadership/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.heychi.com/posts/great-engineering-leadership/</guid>
+      <description>&lt;p&gt;Our head of engineering announced he&amp;rsquo;ll be leaving the company for another opportunity. I&amp;rsquo;m excited for him, of course, but I&amp;rsquo;m definitely sad to see him go.&lt;/p&gt;
+&lt;p&gt;Aaron was the first person I talked to during the hiring process, and that conversation was a big part of why I decided to join the company.
+And although he&amp;rsquo;s the best department head I&amp;rsquo;ve ever worked with in any engineering organization, I&amp;rsquo;m actually not worried about what we&amp;rsquo;ll do without him. He leaves behind an amazing engineering culture he helped build.&lt;/p&gt;
+&lt;p&gt;His leadership during our time working together has greatly contributed to my professional growth and happiness. I could honestly write several essays about the things he did and what I&amp;rsquo;ve learned from him, but I want to focus on one thing Aaron did exceptionally well: asking questions.&lt;/p&gt;
+&lt;h2 id=&#34;whats-the-worst-part-of-your-job&#34;&gt;&amp;ldquo;What&amp;rsquo;s the worst part of your job?&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;I think this is Aaron&amp;rsquo;s signature question. I&amp;rsquo;ve heard it countless times. It&amp;rsquo;s come up in every 1-on-1, and although my responses varied in seriousness, he always took what I was saying seriously.&lt;/p&gt;
+&lt;p&gt;Once, I didn&amp;rsquo;t really have any complaints, so I jokingly pulled out something like &amp;ldquo;oh, I guess commuting sometimes sucks.&amp;rdquo; And in response, he reassured me that although I said that somewhat in jest, I have the trust and freedom to work remotely to reduce the impact the commute was having on me.&lt;/p&gt;
+&lt;p&gt;When I complained about how slow our application was in local development, Aaron rallied help and a solution to the problem the next week.&lt;/p&gt;
+&lt;p&gt;For our flaky tests, he constantly drove process changes, awareness, and action against problematic tests.&lt;/p&gt;
+&lt;p&gt;Over time, the CI/CD pipeline and automated test suite became painfully slow, which I complained about. And I don&amp;rsquo;t know exactly how it played out, but a recent improvement project halved the time for tests to run.&lt;/p&gt;
+&lt;p&gt;What I like about this question though is that it&amp;rsquo;s completely open to anything. Most of my own examples have centered around productivity, but at the core of it, I think the question investigates whether there&amp;rsquo;s anything making people unhappy. The changes I&amp;rsquo;ve witnessed lead me to believe other engineers are identifying lots of other opportunities for improvement at the company. I&amp;rsquo;ve witnessed an overhaul of the engineering career ladder and changes to the performance review process. Engineers often move between teams according to their interests and opportunities for growth. I myself have been part of two major team changes and have gotten to work with and learn from a wide range of people.&lt;/p&gt;
+&lt;p&gt;This constant striving for improvement is a fundamental part of the engineering organization, and it&amp;rsquo;s led to me being the happiest I&amp;rsquo;ve been at any job.&lt;/p&gt;
+&lt;h2 id=&#34;what-could-you-do-about-it&#34;&gt;&amp;ldquo;What could you do about it?&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Sometimes, Aaron directly takes on the responsibility for a problem. Sometimes, he asks whether there&amp;rsquo;s anything he could do about a problem. But sometimes, he&amp;rsquo;ll turn the problem back around on you. It&amp;rsquo;s simple, but I think this question also embodies a major part of our engineering culture. Starting as early as the first interview, engineers openly share ideas and collaborate on problems together. We request design reviews from across the whole department, ask for help publicly, and debug issues together in the open.&lt;/p&gt;
+&lt;p&gt;This question comes in different forms. There are times when I&amp;rsquo;m just earnestly being asked for my thoughts, and those are some of the times I&amp;rsquo;ve learned the most. It&amp;rsquo;s also made me more confident of the ideas I come up with. Over time, I&amp;rsquo;ve started asking this question on my own now as well. I&amp;rsquo;ve been accumulating quite a backlog of 20% time projects because of it.&lt;/p&gt;
+&lt;p&gt;There are also times this question comes in the form of gentle coaching, to open up different approaches to a problem I may have missed. I first encountered this when working through a technical problem on our first phone inteview. Aaron gently coached me on an alternative approach when I was getting stuck. &amp;ldquo;Is there a way you could ___?&amp;rdquo; I honestly thought I bombed that interview coming out of it. Just like I thought I bombed portions of the on-site interviews. But in the end, it was the problem solving and collaboration that mattered.&lt;/p&gt;
+&lt;h2 id=&#34;what-else&#34;&gt;&amp;ldquo;What else?&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;This is the last question I&amp;rsquo;ll share and often the last question Aaron asks, sometimes repeatedly, until there really is nothing else for the time being. It works for soliciting more complaints, more ideas, more solutions, or more of anything at all. At times, we&amp;rsquo;d sit in silence until I came up with something, and at times, those have in turn become fruitful discussions. Sometimes they don&amp;rsquo;t, but that&amp;rsquo;s okay, too.&lt;/p&gt;
+&lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h2&gt;
+&lt;p&gt;I hope I&amp;rsquo;ve been able to express the intent and impact of these questions. Questions by themselves can be powerful, but part of it lies in why you ask them and what you resolve to do about the answers. With Aaron, it quickly became obvious he asked because he cared and was going to do something about it. I wish him all the best in his next venture!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Why Write Online</title>
